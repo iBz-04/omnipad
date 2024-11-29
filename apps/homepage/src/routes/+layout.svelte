@@ -23,7 +23,7 @@
 	<meta property="og:site_name" content="Omnipad" />
 	<meta property="og:locale" content="en" />
 	<meta property="og:type" content="website" />
-	<meta property="og:url" content="https://haptic.md/" />
+	<meta property="og:url" content="https://omnipad-home.vercel.app/" />
 	<meta property="og:title" content="Omnipad - Your private markdown sanctuary" />
 	<meta
 		property="og:description"
@@ -36,7 +36,7 @@
 
 	<!-- Twitter -->
 	<meta property="twitter:card" content="summary_large_image" />
-	<meta property="twitter:url" content="https://haptic.md/" />
+	<meta property="twitter:url" content="https://omnipad-home.vercel.app/" />
 	<meta property="twitter:title" content="Omnipad - Your private markdown sanctuary" />
 	<meta
 		property="twitter:description"
@@ -54,7 +54,7 @@
 	<header class="flex items-center justify-between w-full h-16 z-10 max-w-screen-2xl">
 		<!-- Logo & Name -->
 		<a class="flex items-center justify-center gap-2" href="/">
-			<img src="/icon.svg" alt="Haptic" class="w-9 h-9 border border-border/80 rounded-lg" />
+			<img src="/icon.svg" alt="omnipad" class="w-9 h-9 border border-border/80 rounded-lg" />
 			<span class="text-xl sm:text-2xl font-medium text-foreground font-['Gambarino-Regular']"
 				>Omnipad</span
 			>

@@ -427,7 +427,7 @@
 						}}
 					>
 						<Icon name="heart" />
-						Sponsor Haptic
+						Sponsor Omnipad
 					</Command.Item>
 				</a>
 				<a href="https://go.haptic.md/help" target="_blank" rel="noopener noreferrer">

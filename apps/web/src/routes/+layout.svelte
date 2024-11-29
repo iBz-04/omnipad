@@ -61,13 +61,13 @@
 	<title>Omnipad</title>
 	<meta
 		name="description"
-		content="Omnipad is a new local-first & privacy-focused home for your markdown notes. It's a minimalistic, lightweight and fast note-taking app that's designed to be distraction-free."
+		content="Omnipad is a fast, localized, and privacy-focused markdown note app, designed for simplicity and distraction-free productivity."
 	/>
 	<meta
 		name="keywords"
 		content="Omnipad, Note-taking, Markdown, Local-first, Privacy-focused, Open-source, Online Markdown Editor, Fast Note-taking, Minimalistic Design"
 	/>
-	<meta name="author" content="Haptic" />
+	<meta name="author" content="Omnipad" />
 	<meta name="robots" content="index, follow" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 	<meta name="theme-color" content="#0F0F0F" />
@@ -77,11 +77,11 @@
 	<meta property="og:site_name" content="Omnipad" />
 	<meta property="og:locale" content="en" />
 	<meta property="og:type" content="website" />
-	<meta property="og:url" content="https://haptic.md/" />
+	<meta property="og:url" content="https://omnipad-home.vercel.app/" />
 	<meta property="og:title" content="Omnipad - Write Notes at the speed of touch" />
 	<meta
 		property="og:description"
-		content="Omnipad is a new local-first & privacy-focused home for your markdown notes. It's a minimalistic, lightweight and fast note-taking app that's designed to be distraction-free."
+		content="Omnipad is a fast, localized, and privacy-focused markdown note app, designed for simplicity and distraction-free productivity."
 	/>
 	<meta property="og:image" content="https://haptic.md/landing.png" />
 	<meta property="og:image:alt" content="Omnipad - Markdown Editor" />
@@ -90,11 +90,11 @@
 
 	<!-- Twitter -->
 	<meta property="twitter:card" content="summary_large_image" />
-	<meta property="twitter:url" content="https://haptic.md/" />
+	<meta property="twitter:url" content="https://omnipad-home.vercel.app/" />
 	<meta property="twitter:title" content="Omnipad - Write Notes at the speed of touch" />
 	<meta
 		property="twitter:description"
-		content="Omnipad is a new local-first & privacy-focused home for your markdown notes. It's a minimalistic, lightweight and fast note-taking app that's designed to be distraction-free."
+		content="Omnipad is a fast, localized, and privacy-focused markdown note app, designed for simplicity and distraction-free productivity."
 	/>
 	<meta property="twitter:image" content="https://haptic.md/landing.png" />
 

@@ -91,7 +91,7 @@
 		class="shrink-0 mb-6 sm:mb-10 overflow-clip shadow-lg outline outline-1 outline-gray-300/40 border-[5px] md:border-8 border-white/20 sm:h-fit sm:w-fit h-[120px] w-[120px] rounded-[31px] sm:rounded-[52px]"
 	>
 		<img
-			alt="Haptic Logo"
+			alt="Omnipad Logo"
 			loading="lazy"
 			width="180"
 			height="180"

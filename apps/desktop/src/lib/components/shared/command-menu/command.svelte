@@ -303,18 +303,18 @@
 					class="text-foreground/90 gap-3 [&>*]:text-foreground/90 [&>*]:aria-selected:text-foreground [&>*]:fill-foreground/50 [&>*]:aria-selected:fill-foreground"
 					value="sponsor"
 					onSelect={() => {
-						browserOpen('https://go.haptic.md/sponsor');
+						browserOpen('https://omnipad-home.vercel.app//sponsor');
 						handlePageState(undefined);
 					}}
 				>
 					<Icon name="heart" />
-					Sponsor Haptic
+					Sponsor Omnipad
 				</Command.Item>
 				<Command.Item
 					class="text-foreground/90 gap-3 [&>*]:text-foreground/90 [&>*]:aria-selected:text-foreground [&>*]:fill-foreground/50 [&>*]:aria-selected:fill-foreground"
 					value="help"
 					onSelect={() => {
-						browserOpen('https://go.haptic.md/help');
+						browserOpen('https://omnipad-home.vercel.app//help');
 						handlePageState(undefined);
 					}}
 				>
@@ -326,7 +326,7 @@
 					class="text-foreground/90 gap-3 [&>*]:text-foreground/90 [&>*]:aria-selected:text-foreground [&>*]:fill-foreground/50 [&>*]:aria-selected:fill-foreground"
 					value="feedback"
 					onSelect={() => {
-						browserOpen('https://go.haptic.md/feedback');
+						browserOpen('https://omnipad-home.vercel.app/feedback');
 						handlePageState(undefined);
 					}}
 				>
@@ -340,7 +340,7 @@
 					class="text-foreground/90 gap-3 [&>*]:text-foreground/90 [&>*]:aria-selected:text-foreground [&>*]:fill-foreground/50 [&>*]:aria-selected:fill-foreground"
 					value="copy_link"
 					onSelect={() => {
-						navigator.clipboard.writeText('https://haptic.md');
+						navigator.clipboard.writeText('https://omnipad-home.vercel.app/');
 						handlePageState(undefined);
 					}}
 				>
@@ -351,8 +351,8 @@
 					class="text-foreground/90 gap-3 [&>*]:text-foreground/90 [&>*]:aria-selected:stroke-foreground [&>*]:stroke-foreground/50 [&>*]:stroke-[2px]"
 					value="share_on_twitter"
 					onSelect={() => {
-						// Text: Check out this awesome open-source, local-first note-taking app I found! \n\nhttps://haptic.md by @chroxify
-						browserOpen('https://go.haptic.md/tweet');
+						// Text: Check out this awesome open-source, local-first note-taking app I found!
+						browserOpen('https://omnipad-home.vercel.app/tweet');
 						handlePageState(undefined);
 					}}
 				>

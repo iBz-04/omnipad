@@ -64,7 +64,7 @@
 			</Button>
 		</Tooltip>
 
-		<Tooltip text="Haptic Sync">
+		<Tooltip text="Omni Sync">
 			<Button
 				size="icon"
 				variant="ghost"
