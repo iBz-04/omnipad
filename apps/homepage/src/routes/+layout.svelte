@@ -4,14 +4,14 @@
 </script>
 
 <svelte:head>
-	<title>Omnipad - Write Notes at the speed of touch</title>
+	<title>Omnipad - Your private markdown sanctuary</title>
 	<meta
 		name="description"
-		content="Omnipad is a new local-first & privacy-focused home for your markdown notes. It's a minimalistic, lightweight and fast note-taking app that's designed to be distraction-free."
+		content="Omnipad is a fast, lightweight, and privacy-focused markdown note app, designed for simplicity and distraction-free productivity"
 	/>
 	<meta
 		name="keywords"
-		content="Omnipad, Note-taking, Markdown, Local-first, Privacy-focused, Open-source, Online Markdown Editor, Fast Note-taking, Minimalistic Design"
+		content="Omnipad, Note-taking app, Markdown app, Localized notes, Privacy-focused, Open-source, Online Markdown Editor, Fast Note-taking, Minimalistic Design, distraction-free productivity"
 	/>
 	<meta name="author" content="Omnipad" />
 	<meta name="robots" content="index, follow" />
@@ -24,23 +24,23 @@
 	<meta property="og:locale" content="en" />
 	<meta property="og:type" content="website" />
 	<meta property="og:url" content="https://haptic.md/" />
-	<meta property="og:title" content="Haptic - Write Notes at the speed of touch" />
+	<meta property="og:title" content="Omnipad - Your private markdown sanctuary" />
 	<meta
 		property="og:description"
-		content="Omnipad is a new local-first & privacy-focused home for your markdown notes. It's a minimalistic, lightweight and fast note-taking app that's designed to be distraction-free."
+		content="Omnipad is a fast, localized, and privacy-focused markdown note app, designed for simplicity and distraction-free productivity"
 	/>
 	<meta property="og:image" content="https://haptic.md/landing.png" />
-	<meta property="og:image:alt" content="Haptic - Markdown Editor" />
+	<meta property="og:image:alt" content="Omnipad - Private Notetaking" />
 	<meta property="og:image:width" content="1200" />
 	<meta property="og:image:height" content="627" />
 
 	<!-- Twitter -->
 	<meta property="twitter:card" content="summary_large_image" />
 	<meta property="twitter:url" content="https://haptic.md/" />
-	<meta property="twitter:title" content="Omnipad - Write Notes at the speed of touch" />
+	<meta property="twitter:title" content="Omnipad - Your private markdown sanctuary" />
 	<meta
 		property="twitter:description"
-		content="Omnipad is a new local-first & privacy-focused home for your markdown notes. It's a minimalistic, lightweight and fast note-taking app that's designed to be distraction-free."
+		content="Omnipad is a fast, localized, and privacy-focused markdown note app, designed for simplicity and distraction-free productivity"
 	/>
 	<meta property="twitter:image" content="https://haptic.md/landing.png" />
 
@@ -62,11 +62,10 @@
 
 		<!-- CTA's -->
 		<div class="flex items-center gap-2">
-			<a href="/github" target="_blank" rel="noopener noreferrer">
-				<Button variant="secondary" size="sm" scale="sm" class="rounded-full">Star on Github</Button
-				>
+			<a href="https://github.com/iBz-04" target="_blank" rel="noopener noreferrer">
+				<Button variant="secondary" size="sm" scale="sm" class="rounded-full">Github</Button>
 			</a>
-			<a href="/app" target="_blank" rel="noopener noreferrer">
+			<a href="https://omnipad-web.vercel.app/" target="_blank" rel="noopener noreferrer">
 				<Button size="sm" scale="sm" class="rounded-full">Open App</Button>
 			</a>
 		</div>
@@ -101,13 +100,13 @@
 				rel="noopener noreferrer"
 				target="_blank"
 			>
-				Spread the word
+				Share on x
 			</a>
 		</nav>
 
 		<!-- Socials -->
 		<div class="flex items-center gap-4">
-			<a href="/twitter" rel="noopener noreferrer" target="_blank">
+			<a href="https://x.com/ibrahh__ib" rel="noopener noreferrer" target="_blank">
 				<svg
 					stroke="currentColor"
 					fill="currentColor"
@@ -122,7 +121,7 @@
 					></path></svg
 				>
 			</a>
-			<a href="/github" rel="noopener noreferrer" target="_blank">
+			<a href="https://github.com/iBz-04" rel="noopener noreferrer" target="_blank">
 				<svg
 					viewBox="0 0 256 250"
 					width="256"

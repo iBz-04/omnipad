@@ -127,7 +127,7 @@
 				</Select.Trigger>
 				<Select.Content align="start" class="!w-40">
 					<Select.Item value="system">System trash</Select.Item>
-					<Select.Item value="haptic">Haptic trash</Select.Item>
+					<Select.Item value="haptic">Omni trash</Select.Item>
 					<Select.Item value="delete">Permanently delete</Select.Item>
 				</Select.Content>
 			</Select.Root>

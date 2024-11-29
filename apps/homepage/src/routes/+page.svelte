@@ -13,36 +13,35 @@
 <h1
 	class="text-5xl sm:text-6xl font-medium text-foreground font-['Gambarino-Regular'] text-center z-10"
 >
-	Write Notes at the speed of touch
+	Your Secure Haven for Notes
 </h1>
 
 <p class="text-secondary-foreground/70 text-center leading-relaxed text-sm sm:text-base z-10">
-	Haptic is a new
+	The Omnipad application is a modern &
 	<Tooltip type="privacy">
-		<span class="underline decoration-dotted cursor-not-allowed">local-first & privacy-focused</span
-		>,
+		<span class="underline decoration-dotted cursor-not-allowed">localized</span>,
 	</Tooltip>
-	<Tooltip type="github">
-		<span class="underline decoration-dotted cursor-help">open-source</span>
-	</Tooltip>
-	home for your markdown notes.<br class="hidden md:block" />
-	It's a minimalistic,
+	<!-- <Tooltip type="github">
+		<span class="underline decoration-dotted cursor-help">lightweight</span>
+	</Tooltip> -->
+	notes editor<br class="hidden md:block" />
+	It's sleek,
 	<Tooltip type="lightweight">
 		<span class="underline decoration-dotted cursor-copy">lightweight</span></Tooltip
 	> and
 
 	<Tooltip type="rust">
-		<span class="underline decoration-dotted cursor-wait">fast</span>
-	</Tooltip> note-taking app that's designed to be <Tooltip type="shortcuts"
+		<span class="underline decoration-dotted cursor-wait">fast.</span>
+	</Tooltip>omnipad is designed to be simple and <Tooltip type="shortcuts"
 		><span class="underline decoration-dotted cursor-alias">distraction-free</span>.</Tooltip
 	>
 </p>
 
 <div class="flex items-center justify-center gap-4 z-10 mt-2">
-	<a href="/download">
-		<Button scale="sm" class="rounded-full select-none">Download</Button>
+	<a href="https://omnipad-web.vercel.app/">
+		<Button scale="sm" class="rounded-full select-none">Try it</Button>
 	</a>
-	<a href="/github" target="_blank" rel="noopener noreferrer">
+	<a href="https://github.com/iBz-04" target="_blank" rel="noopener noreferrer">
 		<Button scale="sm" variant="secondary" class="rounded-full select-none">Learn More</Button>
 	</a>
 </div>
@@ -61,7 +60,7 @@
 			class="absolute inset-0 flex items-center justify-center bg-gradient-to-b from-transparent to-neutral-950 rounded-lg md:rounded-xl z-10"
 		>
 			<a
-				href="/app"
+				href="https://omnipad-web.vercel.app/"
 				target="_blank"
 				rel="noopener noreferrer"
 				class="group overflow-hidden rounded-full border border-primary-foreground/10 dark:border-border bg-background/5 dark:bg-background dark:brightness-110 backdrop-blur-sm transition hover:scale-[1.05]"

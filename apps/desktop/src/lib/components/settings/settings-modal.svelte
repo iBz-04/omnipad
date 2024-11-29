@@ -36,7 +36,7 @@
 		],
 		Syncronization: [
 			{
-				name: 'Haptic Sync',
+				name: 'Omni Sync',
 				icon: 'cloudSolid',
 				content: HapticSync
 			}

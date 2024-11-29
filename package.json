@@ -1,5 +1,5 @@
 {
-  "name": "haptic",
+  "name": "omnipad",
   "private": true,
   "scripts": {
     "build": "turbo run build",

@@ -96,7 +96,7 @@
 				{githubData.stars} Stars, {githubData.issues} Issues, {githubData.forks} Forks
 			{/if}
 		{:else if type === 'privacy'}
-			Your <span class="glitch">data</span> never leaves your <Smartphone
+			Your <span class="glitch">data</span> stays on your <Smartphone
 				class="h-4 w-4 block -ml-0.5 sm:hidden"
 			/><span class="-ml-1 sm:hidden">phone</span>
 			<Tablet class="h-4 w-4 block -ml-0.5 hidden sm:inline xl:hidden" /><span
@@ -106,7 +106,7 @@
 				>computer</span
 			>
 		{:else if type === 'rust'}
-			<span class="hidden sm:inline">Instant responses. </span>Optimized for speed and performance
+			<span class="hidden sm:inline">Instant responses </span>
 			<svg
 				width="100%"
 				height="100%"
@@ -182,9 +182,9 @@
 				</g>
 			</svg>
 		{:else if type === 'lightweight'}
-			<Zap class="h-3.5 w-3.5 fill-foreground" /> below 15mb, no bloat.
+			<Zap class="h-3.5 w-3.5 fill-foreground" /> below 15mb, haha.
 		{:else if type === 'shortcuts'}
-			Never leave your keyboard
+			No ads or pop-ups
 			<span
 				class="pointer-events-none inline-flex h-[18px] pl-1.5 tracking-widest -mr-2 select-none items-center gap-1 rounded bg-muted px-1 font-mono font-medium text-foreground/70 opacity-100"
 			>

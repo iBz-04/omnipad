@@ -50,7 +50,7 @@
 
 	<div class="space-y-1">
 		<Label class="text-sm">Backups</Label>
-		<p class="text-muted-foreground text-xs">Wheter or not to create scheduled backups.</p>
+		<p class="text-muted-foreground text-xs">Whether or not to create scheduled backups.</p>
 		<div class="flex items-center gap-2 pt-2">
 			<Tooltip text="Coming soon">
 				<Switch bind:checked={autoBackup} disabled />
