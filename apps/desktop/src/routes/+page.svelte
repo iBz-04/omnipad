@@ -45,7 +45,7 @@
 			<button
 				class="text-sm gap-1.5 flex text-muted-foreground hover:text-secondary-foreground transition-colors items-center justify-center"
 				on:click={() => {
-					browserOpen('https://go.haptic.md/github');
+					browserOpen('https://omnipad-home.vercel.app/github');
 				}}
 			>
 				<Shortcut options={githubShortcut} />
