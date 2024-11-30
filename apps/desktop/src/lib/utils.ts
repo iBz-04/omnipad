@@ -150,17 +150,17 @@ export function shortcutToString(shortcut: ShortcutParams) {
 export async function validateHapticFolder(path: string) {
 	if (path === null) return;
 
-	const hapticFolder = await readDir(path + '/.haptic').catch(() => null);
+	const omnipadFolder = await readDir(path + '/.omnipad').catch(() => null);
 
-	if (!hapticFolder) {
-		// Create .haptic folder
-		await createDir(path + '/.haptic');
+	if (!omnipadFolder) {
+		// Create .omnipad folder
+		await createDir(path + '/.omnipad');
 
 		// Create trash folder
-		await createDir(path + '/.haptic/trash');
+		await createDir(path + '/.omnipad/trash');
 
 		// Create daily folder
-		await createDir(path + '/.haptic/daily');
+		await createDir(path + '/.omnipad/daily');
 	}
 }
 

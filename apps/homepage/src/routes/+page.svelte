@@ -17,7 +17,7 @@
 </h1>
 
 <p class="text-secondary-foreground/70 text-center leading-relaxed text-sm sm:text-base z-10">
-	The Omnipad application is a modern &
+	The Omnipad application is a new generational and
 	<Tooltip type="privacy">
 		<span class="underline decoration-dotted cursor-not-allowed">localized</span>,
 	</Tooltip>
@@ -28,11 +28,11 @@
 	It's sleek,
 	<Tooltip type="lightweight">
 		<span class="underline decoration-dotted cursor-copy">lightweight</span></Tooltip
-	> and
+	> &
 
 	<Tooltip type="rust">
 		<span class="underline decoration-dotted cursor-wait">fast.</span>
-	</Tooltip>omnipad is designed to be simple and <Tooltip type="shortcuts"
+	</Tooltip>omnipad is designed to be simple plus <Tooltip type="shortcuts"
 		><span class="underline decoration-dotted cursor-alias">distraction-free</span>.</Tooltip
 	>
 </p>
@@ -41,7 +41,7 @@
 	<a href="https://omnipad-web.vercel.app/">
 		<Button scale="sm" class="rounded-full select-none">Try it</Button>
 	</a>
-	<a href="https://github.com/iBz-04" target="_blank" rel="noopener noreferrer">
+	<a href="https://github.com/OmniS0FT" target="_blank" rel="noopener noreferrer">
 		<Button scale="sm" variant="secondary" class="rounded-full select-none">Learn More</Button>
 	</a>
 </div>
