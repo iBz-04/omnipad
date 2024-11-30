@@ -303,7 +303,7 @@
 					class="text-foreground/90 gap-3 [&>*]:text-foreground/90 [&>*]:aria-selected:text-foreground [&>*]:fill-foreground/50 [&>*]:aria-selected:fill-foreground"
 					value="sponsor"
 					onSelect={() => {
-						browserOpen('https://omnipad-home.vercel.app//sponsor');
+						browserOpen('https://omnipad-home.vercel.app/sponsor');
 						handlePageState(undefined);
 					}}
 				>
@@ -314,7 +314,7 @@
 					class="text-foreground/90 gap-3 [&>*]:text-foreground/90 [&>*]:aria-selected:text-foreground [&>*]:fill-foreground/50 [&>*]:aria-selected:fill-foreground"
 					value="help"
 					onSelect={() => {
-						browserOpen('https://omnipad-home.vercel.app//help');
+						browserOpen('https://omnipad-home.vercel.app/help');
 						handlePageState(undefined);
 					}}
 				>

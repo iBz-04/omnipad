@@ -29,7 +29,10 @@
 		property="og:description"
 		content="Omnipad is a fast, localized, and privacy-focused markdown note app, designed for simplicity and distraction-free productivity"
 	/>
-	<meta property="og:image" content="https://haptic.md/landing.png" />
+	<meta
+		property="og:image"
+		content="hhttps://res.cloudinary.com/diekemzs9/image/upload/v1732953707/Screenshot_2024-11-30_080119_fgpge9.png"
+	/>
 	<meta property="og:image:alt" content="Omnipad - Private Notetaking" />
 	<meta property="og:image:width" content="1200" />
 	<meta property="og:image:height" content="627" />
@@ -42,7 +45,10 @@
 		property="twitter:description"
 		content="Omnipad is a fast, localized, and privacy-focused markdown note app, designed for simplicity and distraction-free productivity"
 	/>
-	<meta property="twitter:image" content="https://haptic.md/landing.png" />
+	<meta
+		property="twitter:image"
+		content="https://res.cloudinary.com/diekemzs9/image/upload/v1732953707/Screenshot_2024-11-30_080119_fgpge9.pngg"
+	/>
 
 	<script async src="https://cdn.seline.so/seline.js" data-token="d028e058129b859"></script>
 </svelte:head>

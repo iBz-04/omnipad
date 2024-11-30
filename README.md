@@ -17,7 +17,7 @@
 
 <!-- TOC -->
 <p align="center">
-    <a href="https://haptic.md"><strong>Learn more »</strong></a>
+    <a href="https://omnipad-home.vercel.app/"><strong>More »</strong></a>
     <br />
     <br />
     <a href="https://github.com/iBz-04/omnipad/tree/main#introduction">Intro</a>
