@@ -2,7 +2,7 @@
 <div align="center" style="margin-top: 120px">
   <a href="https://omnipad-web.vercel.app/">
     <img
-      src="./.github/assets/icon.svg"
+      src="https://res.cloudinary.com/diekemzs9/image/upload/v1732949134/apple-touch-icon_hijore.svg"
       alt="omnipad"
       height="100"
     />

@@ -83,8 +83,9 @@
 		<p class="text-secondary-foreground/70 text-sm sm:text-[15px]">© 2024 Omnipad</p>
 
 		<nav class="items-center gap-4 ml-4 text-sm sm:text-[15px] hidden sm:flex -ml-20">
-			<a href="/download" class="text-secondary-foreground/70 hover:text-foreground transition-all"
-				>Download</a
+			<a
+				href="https://www.linkedin.com/company/omnisoft-llc"
+				class="text-secondary-foreground/70 hover:text-foreground transition-all">LinkedIn</a
 			>
 			<a
 				href="/sponsor"
