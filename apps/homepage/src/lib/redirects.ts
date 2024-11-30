@@ -4,9 +4,9 @@ type Redirects = {
 };
 
 export const redirects: Redirects = {
-	'/app': 'https://app.haptic.md',
-	'/github': 'https://go.haptic.md/github',
-	'/twitter': 'https://go.haptic.md/twitter',
-	'/sponsor': 'https://go.haptic.md/sponsor',
-	'/tweet': 'https://go.haptic.md/tweet'
+	'/app': 'https://omnipad-web.vercel.app',
+	'/github': 'https://omnipad-home.vercel.app/github',
+	'/twitter': 'https://omnipad-home.vercel.app/twitter',
+	'/sponsor': 'https://omnipad-home.vercel.app/sponsor',
+	'/tweet': 'https://omnipad-home.vercel.app/tweet'
 };
