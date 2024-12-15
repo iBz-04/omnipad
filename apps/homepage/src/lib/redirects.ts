@@ -4,9 +4,9 @@ type Redirects = {
 };
 
 export const redirects: Redirects = {
-	'/app': 'https://omnipad-web.vercel.app',
-	'/github': 'https://omnipad-home.vercel.app/github',
-	'/twitter': 'https://omnipad-home.vercel.app/twitter',
-	'/sponsor': 'https://omnipad-home.vercel.app/sponsor',
-	'/tweet': 'https://omnipad-home.vercel.app/tweet'
+	'/app': 'https://omnipad.pro',
+	'/github': 'https://omnipad.live/github',
+	'/twitter': 'https://omnipad.live/twitter',
+	'/sponsor': 'https://omnipad.live/sponsor',
+	'/tweet': 'https://omnipad.pro/tweet'
 };
