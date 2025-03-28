@@ -1,0 +1,18 @@
+{
+  // Remove or comment out the extends line
+  // "extends": "./.svelte-kit/tsconfig.json",
+  "compilerOptions": {
+    "target": "ESNext",
+    "useDefineForClassFields": true,
+    "module": "ESNext",
+    "moduleResolution": "bundler",
+    "resolveJsonModule": true,
+    "allowJs": true,
+    "checkJs": true,
+    "isolatedModules": true,
+    "strict": true,
+    // Add other compiler options as needed
+  },
+  "include": ["apps/**/*.d.ts", "apps/**/*.ts", "apps/**/*.js", "apps/**/*.svelte", "packages/**/*.d.ts", "packages/**/*.ts", "packages/**/*.js", "packages/**/*.svelte"],
+  "exclude": ["**/*.config.js", "**/*.config.cjs", "**/svelte.config.js", "**/postcss.config.js", "**/tailwind.config.js", "**/eslint.config.js", "packages/config-*/index.js", "**/build/**", "**/.svelte-kit/**"]
+} 

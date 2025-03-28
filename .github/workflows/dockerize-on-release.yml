@@ -3,7 +3,6 @@ name: 'dockerize-on-release'
 on:
   release:
     types: [published]
-    branches: ['main']
 
 jobs:
   build:

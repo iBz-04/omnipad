@@ -8,13 +8,13 @@ mod commands;
 fn main() {
   let mut ctx = tauri::generate_context!();
   tauri::Builder::default()
-    .setup(|app| {
+    .setup(|_app| {
       if cfg!(target_os = "macos") {
           #[cfg(target_os = "macos")]
           use mac::window::setup_mac_window;
 
           #[cfg(target_os = "macos")]
-          setup_mac_window(app);
+          setup_mac_window(_app);
       }
 
         Ok(())
